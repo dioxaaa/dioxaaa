@@ -1,16 +1,22 @@
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6b2c39d4947%26v%3D4&v=showcase-projects-2" alt="dio projects visual" />
+<img src="https://www.gitskins.com/api/section/projects?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6a786d0536d4c4d2e6f1b3a0b90f0bc7%2C%20%22%22" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=dioxaaa&theme=matrix&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6b2c39d4947%26v%3D4&v=showcase-heatmap-3" alt="dio heatmap visual" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=dioxaaa&theme=matrix&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6a786d0536d4c4d2e6f1b3a0b90f0bc7" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6b2c39d4947%26v%3D4&v=showcase-stats-4" alt="dio stats visual" />
+<img src="https://www.gitskins.com/api/section/stats?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6a786d0536d4c4d2e6f1b3a0b90f0bc7" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/social?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6b2c39d4947%26v%3D4&v=showcase-social-5" alt="dio social visual" />
+<img src="https://www.gitskins.com/api/section/social?username=dioxaaa&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F153206953%3Fu%3Db53e7f7f9316d7e0670f5d059ad3d6a786d0536d4c4d2e6f1b3a0b90f0bc7" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diosa-oliver/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
